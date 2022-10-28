@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3171931742
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: endofnextonept1.dlc
+      Dependencies: {}
+    Info_1:
+      Name: wipraphaelnekopack.dlc
+      Dependencies: {}
+    Info_2:
+      Name: sfhpt1.dlc
+      Dependencies: {}
+    Info_3:
+      Name: wipfreshmix.dlc
+      Dependencies: {}

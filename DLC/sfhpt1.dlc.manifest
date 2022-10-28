@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1262606800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b8358d736183a2a8a1aba38cfcb0209
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bdbdfe39107270881a2e2006816038aa
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c233105feb8fc5542858b969c832a2a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/SFHPt1/MainTheme.json
+- Assets/Bundles/SFHPt1/MainTheme.wav
+- Assets/Bundles/SFHPt1/MorningVibes.wav
+- Assets/Bundles/SFHPt1/RunningTowardVictory.wav
+- Assets/Bundles/SFHPt1/MainTheme_Preview.wav
+- Assets/Bundles/SFHPt1/NiceSweetheart.asset
+- Assets/Bundles/SFHPt1/RunningTowardVictory_Preview.wav
+- Assets/Bundles/SFHPt1/MorningVibes.json
+- Assets/Bundles/SFHPt1/RunningTowardVictory.asset
+- Assets/Bundles/SFHPt1/NiceSweetheart.wav
+- Assets/Bundles/SFHPt1/ChillingWithYou.wav
+- Assets/Bundles/SFHPt1/NiceSweetheart_preview.wav
+- Assets/Bundles/SFHPt1/ChillingWithYou.asset
+- Assets/Bundles/SFHPt1/MainTheme.asset
+- Assets/Bundles/SFHPt1/NiceSweetheart.json
+- Assets/Bundles/SFHPt1/MorningVibes_Preview.wav
+- Assets/Bundles/SFHPt1/RunningTowardVictory.json
+- Assets/Bundles/SFHPt1/ChillingWithYou.json
+- Assets/Bundles/SFHPt1/ChillingWithYou_Preview.wav
+- Assets/Bundles/SFHPt1/MorningVibes.asset
+Dependencies: []
