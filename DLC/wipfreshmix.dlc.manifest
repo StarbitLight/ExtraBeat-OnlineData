@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 567774028
+CRC: 3893693111
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5aa72c4689920c9a048213c35524b254
+    Hash: 77f09174c78dde2f1a77c71d4d6e8344
   TypeTreeHash:
     serializedVersion: 2
     Hash: bdbdfe39107270881a2e2006816038aa
@@ -19,8 +19,19 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeEasy.asset
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeEasy.wav
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeExtreme.wav
 - Assets/Bundles/WIPFreshMix/BetterThanMama.asset
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeExtreme.asset
 - Assets/Bundles/WIPFreshMix/BetterThanMama.wav
 - Assets/Bundles/WIPFreshMix/BetterThanMama.json
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeEasy.json
+- Assets/Bundles/WIPFreshMix/BakingAndJamming_Preview.wav
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipeExtreme.json
+- Assets/Bundles/WIPFreshMix/BakingAndJamming.asset
+- Assets/Bundles/WIPFreshMix/BakingAndJamming.wav
 - Assets/Bundles/WIPFreshMix/BetterThanMama_Preview.wav
+- Assets/Bundles/WIPFreshMix/BakingAndJamming.json
+- Assets/Bundles/WIPFreshMix/ChildhoodRecipe_Preview.wav
 Dependencies: []
